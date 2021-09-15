@@ -1,0 +1,48 @@
+{
+  "isSecured": false,
+  "requestMethod": ["GET"],
+  "param": {
+    "appleId": {
+      "name": "apple_id",
+      "type": "string",
+      "description": "apple_id",
+      "required": true,
+      "default": ""
+    },
+    "androidPushToken": {
+      "name": "android_push_token",
+      "type": "string",
+      "description": "android_push_token",
+      "required": false,
+      "default": ""
+    },
+    "iosPushToken": {
+      "name": "ios_push_token",
+      "type": "string",
+      "description": "ios_push_token",
+      "required": false,
+      "default": ""
+    },
+    "referralCode": {
+      "name": "referral_code",
+      "type": "string",
+      "description": "referral_code",
+      "required": false,
+      "default": ""
+    },
+    "deviceToken": {
+      "name": "device_token",
+      "type": "string",
+      "description": "device_token",
+      "required": false,
+      "default": ""
+    },
+    "loginType": {
+      "name": "login_type",
+      "type": "number",
+      "description": "1. Normal login/upgrade 2.Apple 3.Guest",
+      "required": true,
+      "default": 1
+    }
+  }
+}
