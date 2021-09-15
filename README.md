@@ -1,0 +1,1 @@
+# njs2-package-template
