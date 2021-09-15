@@ -1,9 +1,0 @@
-{
-  "user": {
-    "default": {
-      "user_id": "$INT",
-      "status": "$INT",
-      "created_at": "$DATETIME"
-    }
-  }
-}
