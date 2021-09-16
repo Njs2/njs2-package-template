@@ -1,0 +1,9 @@
+{
+  "INVALID_INPUT_EMPTY": {
+    "responseCode": 101001,
+    "responseMessage": {
+      "en": "Input key should not be empty",
+      "es": "Input key no debe estar vacío"
+    }
+  }
+}
