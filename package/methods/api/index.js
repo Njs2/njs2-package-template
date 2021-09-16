@@ -9,7 +9,7 @@ class Njs2Api extends basePkg {
 
   constructor() {
     super();
-    this.LOGIN_TYPE = constant.USER_TYPE.APPLE;
+    this.PACKAGE_TYPE = 1;
   }
 
   /**
