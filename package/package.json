@@ -6,6 +6,7 @@
   "keywords": [],
   "njs2-type": "endpoint", // or helper
   "njs2-method": "<package-name>", // "njs2-endpoints" : []
+  "njs2-method-prefix": "",
   "author": "",
   "license": "ISC",
   "dependencies": {
