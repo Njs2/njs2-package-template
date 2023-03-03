@@ -4,12 +4,11 @@
   "description": "",
   "main": "index.js",
   "keywords": [],
-  "njs2-type": "endpoint",
-  "njs2-method": "<package-name>",
-  "njs2-plugins": ["api"],
+  "njs2-type": "endpoint", // or helper
+  "njs2-method": "<package-name>", // "njs2-endpoints" : []
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "njs2-base": "git+https://github.com/gautham-juego/njs2-base.git#code-review-1"
+    "njs2-base": "^2.1.2"
   }
 }
