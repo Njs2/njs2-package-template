@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "njs2-base": "^2.1.2"
+    "@njs2/base": "^2.1.2"
   }
 }
