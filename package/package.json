@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@njs2/base": "^2.1.0"
-  }
+  },
+  "loadEnv": false // make it true if your plugin should load ENV(s) to project config.json
 }
