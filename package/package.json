@@ -1,9 +1,10 @@
 {
-  "name": "njs2-<package-name>",
+  "name": "@juego/njs2-<package-name>",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "keywords": [],
+  "njs2-package-id": "<package-id>", // 101 - for njs2-auth-apple, 103 - njs2-auth-guest
   "njs2-type": "endpoint", // or helper
   "njs2-method": "<package-name>", // "njs2-endpoints" : []
   "njs2-method-prefix": "<package-name>",
